@@ -1,0 +1,19 @@
+body {
+  background-image: url("./img/background.jpg");
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-color: black;
+}
+.tieude {
+  background-color: rgb(32, 32, 32, 0.5);
+  color: white;
+  text-align: center;
+  height: 100px;
+}
+.noidung {
+  padding-top: 35px;
+}
+#root {
+  background-color: rgb(70, 67, 67, 0.3);
+}

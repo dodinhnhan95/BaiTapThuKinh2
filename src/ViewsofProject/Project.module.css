@@ -1,0 +1,35 @@
+.ModelsEdit {
+  display: flex;
+  padding: 80px;
+  margin: auto 100px;
+  justify-content: space-around;
+}
+.ketQua {
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: rgb(209, 100, 27, 0.5);
+}
+.kinhThu {
+  position: absolute;
+  top: 100px;
+  left: 75px;
+  opacity: 0.8;
+}
+.ChinhSuaSanPham {
+  width: 60%;
+  padding: 30px 60px;
+  background-color: white;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(6 1fr);
+}
+.Items {
+  border: 2px solid black;
+  margin: 10px 10px;
+  cursor: pointer;
+}
